@@ -1,6 +1,6 @@
 // --- CONFIGURATION ---
 // *** PASTE YOUR API KEY HERE ***
-const hardcodedApiKey = ""; 
+const hardcodedApiKey = "AIzaSyAv4v8paNzKuyMa75cO6SCs_nUnzscFxGg"; 
 
 // --- GLOBAL VARIABLES ---
 let userFavorites = [];
